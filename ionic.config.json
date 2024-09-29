@@ -1,0 +1,7 @@
+{
+  "name": "buyitnow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
